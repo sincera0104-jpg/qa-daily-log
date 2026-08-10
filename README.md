@@ -10,15 +10,17 @@
 
 ## 2026-08-07
 
+Fake Store API Resource 사용 
+
 [Postman]
-- Fake Store API 
 - 검증 Assertions 작성 (collection.json)
 - 환경 설정 (environment.json)
+- Postman Runner PASS
 
 [Newman]
 - CLI 환경 Node.js, Newman 설정 
-- Newman run 확인 
-- Environment Share Value 추가 
+- Environment의 Share Value 추가 
+- Newman CLI PASS
 
 [Git]
 - Git 저장소 구성
