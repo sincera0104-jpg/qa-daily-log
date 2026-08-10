@@ -1,6 +1,12 @@
 # QA Daily Log
 
+## 2026-08-10
 
+CrudCrud API Resource 
+
+- CRUD API Chaining으로 End-to-End 시나리오 구성
+- GitHub Repository Secret 통해 환경변수 관리 
+- YAML 및 실행 경로 문제 디버깅
 
 ## 2026-08-09
 
@@ -10,7 +16,7 @@
 
 ## 2026-08-07
 
-Fake Store API Resource 사용 
+Fake Store API Resource 
 
 [Postman]
 - 검증 Assertions 작성 (collection.json)
