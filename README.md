@@ -1,12 +1,16 @@
 # QA Daily Log
 
+## 2026-08-11
+
+- api-test-automation README.md 생성 
+
 ## 2026-08-10
 
 CrudCrud API Resource 
 
 - CRUD API Chaining으로 End-to-End 시나리오 구성
-- GitHub Repository Secret 통해 환경변수 관리 
-- YAML 및 실행 경로 문제 디버깅
+- GitHub Repository Secrets 통한 환경변수 관리 
+- YAML indentation 및 실행 경로 문제 디버깅
 
 ## 2026-08-09
 
