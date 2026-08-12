@@ -2,7 +2,7 @@
 
 ## 2026-08-12
 
-- Newman HTML Report 생성 + Artifact 업로드
+- Newman HTML Report 생성 + Artifact 업로드. 
 (npm install -g newman-reporter-htmlextra)
 
 ## 2026-08-11
