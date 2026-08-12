@@ -1,5 +1,10 @@
 # QA Daily Log
 
+## 2026-08-12
+
+- Newman HTML Report 생성 + Artifact 업로드
+(npm install -g newman-reporter-htmlextra)
+
 ## 2026-08-11
 
 - api-test-automation README.md 생성 
