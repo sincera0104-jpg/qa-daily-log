@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-08-13
+
+- api-test-automation README에 테스트 결과 CI 뱃지 추가 (Add CI status badge to README)
+
 ## 2026-08-12
 
 - Newman HTML Report 생성 + Artifact 업로드 
