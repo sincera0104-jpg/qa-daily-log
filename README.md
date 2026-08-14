@@ -1,6 +1,12 @@
 # QA Daily Log
 
 ## 2026-08-13
+api-test-automation
+- Fake Store Content-Type assertion 추가 
+- api-test-automation README prerequisites 추가 
+- .gitignore 분류 명확화 
+
+## 2026-08-13
 
 - api-test-automation README에 테스트 결과 CI 뱃지 추가 (Add CI status badge to README)
 
