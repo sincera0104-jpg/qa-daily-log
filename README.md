@@ -1,6 +1,9 @@
 # QA Daily Log
 
-## 2026-08-13
+## 2026-08-14
+- Fake Store Carts API request 추가 
+
+## 2026-08-14
 api-test-automation
 - Fake Store Content-Type assertion 추가 
 - api-test-automation README prerequisites 추가 
