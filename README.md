@@ -1,5 +1,8 @@
 # QA Daily Log
 
+## 2026-08-19
+- Fake Store Carts API POST 장바구니 추가 request 추가
+
 ## 2026-08-18
 - Fake Store Carts API chaining tests 추가
 
