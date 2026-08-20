@@ -1,5 +1,22 @@
 # QA Daily Log
 
+## 2026-08-20
+[Codex]
+- api-test-automation 프로젝트 구조 분석
+- 개선할 사항 분석
+- 'GET 존재하지 않는 상품'에 Status Code assertion 추가 
+- diff 확인
+- Postman과 동기화 방법 확인 (추후 연동 및 Playwright API TEST로 대체)
+- git add, commit, push 
+- staging 되었는지 직접 확인 
+- Codex에게 어디까지 맡겨야할지 고민 
+
+[Playwright]
+- tests/api/products.spec.ts 생성 
+
+[Tistory]
+- 'Conventional Commits 스타일' 발행 
+
 ## 2026-08-19
 - Fake Store Carts API POST 장바구니 추가 request 추가
 
