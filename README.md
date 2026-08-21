@@ -1,5 +1,8 @@
 # QA Daily Log
 
+## 2026-08-21
+- TypeScript를 사용해서 assertion 추가 
+
 ## 2026-08-20
 [Codex]
 - api-test-automation 프로젝트 구조 분석
