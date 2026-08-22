@@ -1,7 +1,10 @@
 # QA Daily Log
 
+## 2026-08-22
+- TypeScript를 사용해서 assertion 추가 (category)
+
 ## 2026-08-21
-- TypeScript를 사용해서 assertion 추가 
+- TypeScript를 사용해서 assertion 추가 (title, price)
 
 ## 2026-08-20
 [Codex]
