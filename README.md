@@ -1,23 +1,27 @@
 # QA Daily Log
 
 ## 2026-08-23
-[playwright-e2e-automation]
-- API → 테스트 사용자 생성
-- API → 게시글 생성 (Authorization 헤더에 토큰을 포함하여 요청)
-- UI  → 로그인
-- UI  → API로 생성한 게시글 확인
-- UI  → 게시글 수정
-- API → 수정 요청 발생 확인
-- API → 게시글 재조회
-- API → UI에서 수정한 body와 최종 서버 데이터 비교
+[playwright-e2e-automation] Repository 생성  
+API → 테스트 사용자 생성  
+API → 게시글 생성 (Authorization 헤더에 토큰을 포함하여 요청)  
+UI  → 로그인  
+UI  → API로 생성한 게시글 확인  
+UI  → 게시글 수정  
+API → 수정 요청 발생 확인  
+API → 게시글 재조회  
+API → UI에서 수정한 body와 최종 서버 데이터 비교  
 
-이후 작업 예정 순서 
-① config/baseURL 분리 + API URL 하드코딩 제거 → ② API/UI 역할 분리 리팩터링 → ③ 테스트 이름 정리 → ④ README → ⑤ GitHub Actions CI
+이후 작업 예정 순서  
+① config/baseURL 분리 + API URL 하드코딩 제거  
+② API/UI 역할 분리 리팩터링  
+③ 테스트 이름 정리  
+④ README  
+⑤ GitHub Actions CI  
 
-Repository 정리 
-[api-test-automation] API Test Automation with Postman & Newman
-[playwright-test-automation] API Test Automation with Playwright
-[playwright-e2e-automation] API & UI E2E Test Automation with Playwright
+Repository 정리  
+[api-test-automation] API Test Automation with Postman & Newman  
+[playwright-test-automation] API Test Automation with Playwright  
+[playwright-e2e-automation] API & UI E2E Test Automation with Playwright  
 
 ## 2026-08-22
 - TypeScript를 사용해서 assertion 추가 (category)
