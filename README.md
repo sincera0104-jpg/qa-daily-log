@@ -1,5 +1,11 @@
 # QA Daily Log
 
+## 2026-08-24
+[playwright-e2e-automation]
+refactor: config에 baseURL 분리 + API URL 하드코딩 제거
+- API_BASE_URL 추가 for API TEST
+- playwright.config.ts 파일에 baseURL 추가 for UI TEST
+
 ## 2026-08-23
 [playwright-e2e-automation] Repository 생성  
 API → 테스트 사용자 생성  
