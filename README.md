@@ -1,8 +1,13 @@
 # QA Daily Log
 
 ## 2026-08-25
+[playwright-e2e-automation] 
+- refactor: API 요청 로직 분리
+- docs: README.md 수정 
+
+## 2026-08-25
 [playwright-e2e-automation]  
-docs: README.md 추가  
+- docs: README.md 추가  
 
 ## 2026-08-24
 [playwright-e2e-automation]  
