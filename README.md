@@ -3,6 +3,7 @@
 ## 2026-08-26
 [playwright-e2e-automation] 
 - refactor: API 요청 로직 분리
+- refactor: 테스트 코드 구조 및 가독성 개선 
 - docs: README.md 수정 
 
 ## 2026-08-25
