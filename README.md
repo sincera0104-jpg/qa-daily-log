@@ -1,5 +1,10 @@
 # QA Daily Log
 
+## 2026-08-27
+[playwright-e2e-automation] 
+- refactor: 테스트 구조 및 문서 정리  
+- ci: GitHub Actions E2E 테스트 자동화 추가  
+
 ## 2026-08-26
 [playwright-e2e-automation] 
 - refactor: API 요청 로직 분리
