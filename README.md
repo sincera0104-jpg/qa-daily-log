@@ -2,6 +2,10 @@
 
 ## 2026-08-27
 [playwright-e2e-automation] 
+- refactor: UI 로그인 과정을 API 인증으로 대체 
+
+## 2026-08-27
+[playwright-e2e-automation] 
 - refactor: 테스트 구조 및 문서 정리  
 - ci: GitHub Actions E2E 테스트 자동화 추가  
 
