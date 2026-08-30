@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-08-30
+[playwright-e2e-automation] 
+- refactor: 토큰 인증 및 게시글 cleanup 추가
+
 ## 2026-08-28
 [playwright-e2e-automation] 
 - refactor: UI 로그인 과정을 API 인증으로 대체 
