@@ -1,8 +1,12 @@
 # QA Daily Log
 
+## 2026-08-31
+[playwright-e2e-automation] 
+- refactor: 테스트 데이터 상수 분리
+
 ## 2026-08-30
 [playwright-e2e-automation] 
-- refactor: 토큰 인증 및 게시글 cleanup 추가
+- refactor: 토큰 인증 및 게시글 cleanup 추가 
 
 ## 2026-08-28
 [playwright-e2e-automation] 
