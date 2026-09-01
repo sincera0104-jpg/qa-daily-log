@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-01
+[playwright-e2e-automation] 
+- docs: 리팩토링 및 CI 반영해 README 업데이트
+
 ## 2026-08-31
 [playwright-e2e-automation] 
 - refactor: 테스트 데이터 상수 분리
