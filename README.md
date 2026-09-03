@@ -1,5 +1,12 @@
 # QA Daily Log
 
+## 2026-09-03
+[playwright-e2e-automation] 
+- ci: Playwright  테스트 리포트 artifact 추가 
+- Test Fail 시에만 artifacts가 생성되도록 설정하려다가 아래 이유로 Pass/Fail 모든 경우에 artifacts가 생성되도록 함 - if: always()
+① 테스트 실행 증적을 남기기 위해     
+② retention-days: 7로 7일 후 GitHub 저장소에서 파일이 쌓이지 않고 사라지도록 설정함  
+
 ## 2026-09-01
 [playwright-e2e-automation] 
 - docs: 리팩토링 및 CI 반영해 README 업데이트
