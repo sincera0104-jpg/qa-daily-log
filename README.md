@@ -2,6 +2,10 @@
 
 ## 2026-09-03
 [playwright-e2e-automation] 
+- test: 게시글 삭제 E2E 시나리오 추가 
+
+## 2026-09-03
+[playwright-e2e-automation] 
 - ci: Playwright  테스트 리포트 artifact 추가 
 - Test Fail 시에만 artifacts가 생성되도록 설정하려다가 아래 이유로 Pass/Fail 모든 경우에 artifacts가 생성되도록 함 - if: always()  
 ① 테스트 실행 증적을 남기기 위해  
