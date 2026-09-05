@@ -1,6 +1,10 @@
 # QA Daily Log
 
-## 2026-09-03
+## 2026-09-05
+[playwright-e2e-automation] 
+- refactor: 테스트 사용자 생성 로직 공통화
+
+## 2026-09-04
 [playwright-e2e-automation] 
 - test: 게시글 삭제 E2E 시나리오 추가 
 
