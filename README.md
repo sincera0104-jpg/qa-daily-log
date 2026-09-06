@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-06
+[playwright-e2e-automation] 
+- docs: README에 CI 상태 배지 추가
+
 ## 2026-09-05
 [playwright-e2e-automation] 
 - refactor: 테스트 사용자 생성 로직 공통화
