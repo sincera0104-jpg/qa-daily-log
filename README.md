@@ -1,5 +1,11 @@
 # QA Daily Log
 
+## 2026-09-07
+[playwright-e2e-automation] 
+- refator: 테스트별 JWT 인증 설정 공통화  
+(beforeEach로 addInitScript 공통화)
+- 불필요한 코드 제거 
+
 ## 2026-09-06
 [playwright-e2e-automation] 
 - docs: README에 CI 상태 배지 추가
