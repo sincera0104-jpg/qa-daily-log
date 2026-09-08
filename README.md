@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-08
+[playwright-e2e-automation] 
+- refactor: E2E 테스트 단계를 test.step으로 구조화
+
 ## 2026-09-07
 [playwright-e2e-automation] 
 - refator: 테스트별 JWT 인증 설정 공통화  
