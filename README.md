@@ -1,12 +1,17 @@
 # QA Daily Log
 
+## 2026-09-09
+[playwright-e2e-automation] 
+- docs: 테스트 구조 개선사항 README 반영
+`beforeAll` 사용자 재사용 + `beforeEach` 인증 공통화 + `test.step()` 리포트 구조화  
+
 ## 2026-09-08
 [playwright-e2e-automation] 
 - refactor: E2E 테스트 단계를 test.step으로 구조화
 
 ## 2026-09-07
 [playwright-e2e-automation] 
-- refator: 테스트별 JWT 인증 설정 공통화  
+- refactor: 테스트별 JWT 인증 설정 공통화  
 (beforeEach로 addInitScript 공통화)
 - 불필요한 코드 제거 
 
