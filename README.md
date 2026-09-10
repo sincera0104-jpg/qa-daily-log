@@ -1,8 +1,12 @@
 # QA Daily Log
 
+## 2026-09-10
+[playwright-e2e-automation] 
+- test: 게시글 생성 E2E 시나리오 추가 
+
 ## 2026-09-09
 [playwright-e2e-automation] 
-- docs: 테스트 구조 개선사항 README 반영
+- docs: 테스트 구조 개선사항 README 반영  
 `beforeAll` 사용자 재사용 + `beforeEach` 인증 공통화 + `test.step()` 리포트 구조화  
 
 ## 2026-09-08
