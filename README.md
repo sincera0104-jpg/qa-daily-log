@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-13
+[playwright-e2e-automation] 
+- test: 게시글 생성 네거티브 시나리오 추가
+
 ## 2026-09-11
 [playwright-e2e-automation] 
 - refactor: UI 및 API URL 환경변수 분리 
