@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-14
+[playwright-e2e-automation] 
+- docs: 테스트 시나리오 및 환경설정 README 반영
+
 ## 2026-09-13
 [playwright-e2e-automation] 
 - test: 게시글 생성 네거티브 시나리오 추가
