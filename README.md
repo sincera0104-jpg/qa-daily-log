@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-15
+[playwright-e2e-automation] 
+- test: 게시글 description 필수값 검증 추가
+
 ## 2026-09-14
 [playwright-e2e-automation] 
 - docs: 테스트 시나리오 및 환경설정 README 반영
