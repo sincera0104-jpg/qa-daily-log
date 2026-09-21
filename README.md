@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-21
+[playwright-e2e-automation] 
+- refactor: Article Editor POM 적용
+
 ## 2026-09-17
 [playwright-e2e-automation] 
 - refactor: 필수값 네거티브 테스트 데이터 기반으로 공통화
