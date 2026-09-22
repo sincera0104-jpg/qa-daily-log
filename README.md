@@ -1,5 +1,9 @@
 # QA Daily Log
 
+## 2026-09-22
+[playwright-e2e-automation] 
+- refactor: Article Editor POM 적용 (네거티브 케이스)
+
 ## 2026-09-21
 [playwright-e2e-automation] 
 - refactor: Article Editor POM 적용
